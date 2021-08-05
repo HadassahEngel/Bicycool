@@ -1,5 +1,6 @@
 # Bicycool
-Full Stack project: Web application to creating bike buying sessions
+Full Stack project: Web application to create a biking session
+
 
 **To install and run the project:**
 
