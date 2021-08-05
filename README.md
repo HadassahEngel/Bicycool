@@ -26,7 +26,7 @@ run in the terminal of a client folder:
 
 ![image](https://user-images.githubusercontent.com/86183775/128432742-f1d1e55c-67c3-4c37-869c-5488d049ba5f.png)
 
-![image](https://user-images.githubusercontent.com/86183775/128432751-8046ce06-b783-4181-ab2d-289d1a60462f.png)
+![image](https://user-images.githubusercontent.com/86183775/128432927-b43c2ee7-e29f-411a-92b6-a394ec8d4cf7.png)
 
 
 
