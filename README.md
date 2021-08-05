@@ -16,5 +16,9 @@ run in the terminal of a client folder:
 
 -npm start
 
+**See how the site works:**
+
+[Bicycool](https://drive.google.com/file/d/1gV_NfBwTojhSTBYwWNiPXecRE4cMK209/view)
+
 
   
