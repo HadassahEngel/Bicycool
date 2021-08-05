@@ -1,0 +1,138 @@
+.aboutmeetall {
+    margin-top: 5vw;
+    /* box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%); */
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 5vw;
+}
+
+.toaddh1 {
+    margin-bottom: 3%;
+}
+
+.navmodal {
+    background-color: rgb(255, 188, 0);
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    border-radius: 0px !important;
+}
+
+div.nav-item {
+    width: 25% ;
+}
+
+.nav-item-1 {
+    width: 33.333% !important;
+}
+
+.nav-tabs .nav-link {
+    border-bottom: 0px solid rgb(93, 93, 93) !important;
+    color: rgb(93, 93, 93);
+    /* width: 25%; */
+    text-align: center;
+    border-right: 2px solid white !important;
+    border-radius: 0px !important;
+    font-size: 1.5vw;
+    border-top: 0px solid !important;
+    border-bottom: 0px solid !important;
+    border-left: 0px solid !important;
+    inline-size: 100%;
+}
+
+.nav-tabs:hover .nav-link:hover {
+    border-bottom: 0px solid black !important;
+    /* filter: brightness(90%); */
+    border-radius: 0px !important;
+    background-color: white !important;
+    color: rgb(93, 93, 93);
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+    color: rgb(255, 188, 0);
+    background-color: #fff;
+    /* border: 0px solid rgb(93, 93, 93) !important; */
+    border-bottom: 0px solid !important;
+    border-radius: 0px !important;
+}
+.itemallmeet {
+    background-color: white;
+    min-height: 30vw;
+    padding: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+   
+}
+
+.itemallmeetp{
+    white-space: pre-wrap;
+}
+
+.itemallmeetmap {
+    background-color: white;
+    min-height: 30vw;
+    /* padding: 4%;
+    padding-left: 10%;
+    padding-right: 10%; */
+}
+
+.mapmeet {
+    width: 73vw !important;
+    height: 40vw !important;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    margin-left: 3vw !important;
+    margin-right: 3vw !important;
+    border: 0px solid white;
+    /* box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%); */
+}
+
+.who-with1{
+    width: 15%;
+    display: inline-block !important;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+
+.p-who-with{
+    text-align: center;
+    padding-right: 10%;
+    max-height: 2.3vw;
+    overflow: auto;
+    font-size: 1.5vw;
+}
+
+.itemallwhowith{
+    text-align: center;
+    background-color: white;
+    min-height: 30vw;
+    padding: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+.imgpro1{
+    width: 8vw;
+    height: 8vw;
+    margin: right;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.return-to-meet-arrow{
+    color: rgb(255, 188, 0);
+    font-size: 1.5vw;
+    text-align: right !important;
+    padding-bottom: 1vw;
+}
+
+.return-to-meet-arrow:hover{
+    color: white;
+}
+
+.return-to-meet-arrow-div{
+    text-align: right !important;
+    margin-bottom: 1vw;
+}

@@ -1,0 +1,234 @@
+*:focus {
+    outline: none;
+}
+
+.container8 {
+    width: 50%;
+    margin-right: 25%;
+    text-align: center;
+    direction: rtl;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 30%);
+   border-right: 3px solid rgb(255, 188, 0);
+}
+
+.p_haeder3 {
+    
+    padding: 0px;
+    margin-right: 5vw;
+    padding-top: 3vw;
+    font-size: 1.8vw;
+    font-family: "FbReformaNarrow Medium";
+    color: rgb(0, 0, 0);
+}
+
+label{
+    width: 100%;
+}
+
+.addimgp{
+    color: rgb(255, 188, 0);
+    font-size: 1.2vw;
+    margin-bottom: 0px !important;
+    margin-right: 10%;
+}
+
+.file{
+    display: block;
+    margin-right: 10%;
+}
+
+.file-div {
+    background-color: rgb(236, 236, 236);
+    width: 15%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    margin-right: 10%;
+}
+
+.namemeet{
+    width: 65%;
+    margin-top: 2vw;
+    margin-right: -15%;
+}
+
+input.date {
+ 
+  padding: 0pc !important;
+  margin-left: 100%;
+  margin-right: 10% !important;
+  font-family: "Raleway-Regular" !important;
+   
+}
+
+input.time {
+    padding: 0pc !important;
+    margin-right: 10% !important;
+   margin-left: 100%;
+     
+  }
+
+.choose-header {
+    font-size: 1.3vw;
+    font-family: "FbReformaNarrow Regular";
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+div.area-div{
+    width: 100% !important;
+    display: inline-block !important;
+}
+
+div.level-div{
+    width: 100% !important;
+    display: inline-block !important;
+ 
+}
+
+.typelevel{
+    display: inline-block !important;
+    margin-left: 8%;
+    margin-right: 2%;
+    font-size: 1.3vw;
+}
+
+.typelevelchoose:focus{
+    color: rgb(255, 188, 0);
+    background-color: rgb(255, 188, 0);
+}
+
+.divtypechoose{
+    margin-right: -9.2% !important;
+}
+
+.divtypechoose1{
+    margin-right: -11% !important;
+}
+
+.typearea{
+    display: inline-block !important;
+    margin-left: 8%;
+    margin-right: 2%;
+    font-size: 1.3vw;
+}
+
+.map{
+    width: 80%;
+    margin-top: 2vw;
+ 
+}
+
+
+.errors:not(#date) {
+    color: red;
+    font-size: 13px;
+    text-align: right;
+    margin-right: 7.5%;
+    font-family: "FbReformaNarrow Regular";
+}
+
+.errors#date{
+    margin-right: 10%;  
+}
+
+
+.messege_error1 {
+    margin-top: 2vw !important;
+    padding-bottom: 2vw !important;
+    margin-bottom: 4vw !important;
+    color: red;
+    font-family: "FbReformaNarrow Regular";
+    font-size: 1.5vw !important;
+    margin-right: 0pc !important;
+    padding-right: 10%;
+    padding-left: 0pc !important;
+}
+
+.file,
+.date,
+.time {
+    border: 0px solid;
+}
+
+.messege_good {
+    font-family: "FbReformaNarrow Medium";
+    font-size: 26px;
+}
+
+.about, .way {
+    border: 0;
+    outline: 0;
+    border: 2px solid rgb(255, 188, 0);
+    font-size: 1vw;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    color: rgb(93, 93, 93);
+    width: 80%;
+    margin-top: 2vw;
+}
+
+.about{
+    min-height: 10vw;
+   
+}
+
+
+.input {
+    color: rgb(255, 188, 0);
+}
+
+.sumbit {
+    width: 50%;
+    border: 0px;
+    background-color: rgb(255, 188, 0);
+    font-family: "FbReformaNarrow Medium";
+    padding: 1%;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    margin-right: 5px;
+    filter: brightness(100%);
+}
+
+.sumbit:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+
+
+
+input#file-upload-button {
+    color: rgb(255, 188, 0);
+}
+
+
+
+.home {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    background-color: rgb(255, 188, 0);
+    border-radius: 2%;
+    padding: 13%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 20px;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Medium";
+}
+
+.home:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.login11 {
+    color: rgb(93, 93, 93);
+    font-size: 20px;
+    margin-bottom: 40px !important;
+}
+
+
+
+

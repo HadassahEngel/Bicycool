@@ -1,0 +1,76 @@
+body,
+html {
+    font-family: "FbReformaNarrow Medium" !important;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.login {
+    background-color: rgb(128, 128, 128);
+    width: 450px;
+    height: 100vh;
+}
+
+.container {
+    vertical-align: top;
+    width: 45% !important;
+    /* height: 300px; */
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 12%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+}
+
+.guide,
+.bicycle_rider {
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(93, 93, 93);
+    background-color: rgb(255, 188, 0);
+    border-radius: 2%;
+    padding: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 20px;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Regular";
+}
+
+.guide:hover,
+.bicycle_rider:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+    color: rgb(93, 93, 93);
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.loginsh1{
+    font-size: 70px;
+    margin-bottom: 5%;
+}

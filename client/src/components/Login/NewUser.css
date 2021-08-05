@@ -1,0 +1,135 @@
+*:focus {
+    outline: none;
+}
+
+.p_haeder1 {
+    font-family: "FbReformaNarrow Medium" !important;
+    margin-right: 13%;
+    margin-top: 4%;
+    font-size: 1.7vw;
+    line-height: 40px;
+    padding-top: 7% !important;
+}
+
+.container2 {
+    text-align: center;
+    direction: rtl;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    margin: 75px 400px;
+}
+
+.inside-div,
+.image {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.errorsnew{
+    color: red;
+    font-size: 0.8vw;
+    text-align: right;
+    margin-right: 12% !important;
+    font-family: "FbReformaNarrow Regular";
+}
+
+
+.name,
+.id,
+.email,
+.phone,
+.license_number,
+.number_of_participants,
+.age,
+
+.password,
+.confirmpassword,
+.messege_error {
+    padding: 0px;
+    padding-left: 21vw;
+  
+    text-align: right;
+    font-family: "FbReformaNarrow Medium";
+    font-size: 1.3vw;
+}
+.messege_error {
+    margin-top: 5px;
+    color: red;
+    font-family: "FbReformaNarrow Medium";
+    font-size: 24px;
+}
+
+.messege_good {
+    font-family: "FbReformaNarrow Medium";
+    font-size: 26px;
+}
+
+input {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid#f8ce01;
+    font-size: 1.4rem;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    color: rgb(93, 93, 93);
+}
+
+.input {
+    color: rgb(255, 188, 0);
+}
+
+.sumbit {
+    width: 50%;
+    border: 0px;
+    background-color: rgb(255, 188, 0);
+    font-family: "FbReformaNarrow Medium";;
+    padding: 1%;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    margin-right: 5px;
+    filter: brightness(100%);
+}
+
+.sumbit:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.choose-header {
+    text-align: right;
+    direction: rtl;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+
+.home {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    background-color: rgb(255, 188, 0);
+    border-radius: 2%;
+    padding: 13%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 20px;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Medium";
+}
+
+.home:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.login11{
+    color: rgb(93, 93, 93);
+    font-size: 20px;
+    margin-bottom: 40px !important;
+    }
+    
+    .login11:hover, .login11:focus{
+        color: rgb(93, 93, 93);
+        border-bottom: 2px solid  rgb(255, 188, 0) ;
+        font-size: 20px;
+        }

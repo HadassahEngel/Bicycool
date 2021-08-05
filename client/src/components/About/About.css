@@ -1,0 +1,198 @@
+.contain {
+    text-align: center;
+    direction: rtl;
+    background-color: rgb(255, 255, 255);
+    box-shadow: -10px -10px 20px #d4d3d3, 10px 10px 20px #b1b0b0;
+    padding: 3% 0px;
+    margin: 50px 100px;
+    display: inline-block !important;
+}
+
+.linkabout {
+    margin-top: 2%;
+    width: 13%;
+    margin-right: 20%;
+    display: block;
+    text-align: right;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 188, 0);
+    font-family: "FbReformaNarrow Regular";
+}
+
+.image {
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    display: table;
+}
+
+.linkabout:hover {
+    color: rgb(255, 188, 0);
+}
+
+.alllinka {
+    margin-top: 10%;
+    /* background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 30%); */
+}
+
+button {
+    color: white;
+    background-color: white;
+    border: 0px solid white;
+}
+.cardcon {
+    padding-left: 20px;
+}
+
+.styles_faq-row-wrapper__3vA1D
+    .styles_row-body__1NvUo
+    .styles_faq-row__2YF3c
+    .styles_row-title__1YiiY
+    .styles_row-title-text__1MuhU {
+    padding-right: 3em;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.styles_faq-row-wrapper__3vA1D
+    .styles_row-body__1NvUo
+    .styles_faq-row__2YF3c
+    .styles_row-content__QOGZd
+    .styles_row-content-text__2sgAB {
+    color: rgb(93, 93, 93) !important;
+    text-align: right;
+    font-size: 25px !important;
+    line-height: 33px;
+    padding-bottom: 0px !important;
+    padding-right: 60px !important;
+    font-family: "FbReformaNarrow Regular";
+    margin-left: 20%;
+}
+
+/* body {
+    margin: 0;
+
+    line-height: 1.5;
+    font-size: 40px;
+    color: #212529;
+    
+    background-color: #fff;
+} */
+
+
+
+/* div::-webkit-scrollbar {
+    width: 8px;
+    background-color: #f5f5f5;
+    display: block !important;
+    margin-right: 0% !important;
+    margin-left: auto !important;
+}
+
+div::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background-color: #c6cf96;
+} */
+
+
+.details {
+    text-align: center;
+    margin-top: 0px;
+}
+
+
+
+#message-text {
+    height: 285px;
+}
+
+/* .response {
+    direction: rtl;
+    vertical-align: top;
+    border-radius: 50%;
+    width: 280px;
+    height: 280px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    padding: 40px;
+    padding-left: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: -10px -10px 20px #d4d3d3, 10px 10px 20px #b1b0b0;
+    display: inline-block !important;
+    margin: left;
+} */
+
+.p1 {
+    margin-right: 10px !important;
+}
+
+.text2 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+/* .card-columns {
+    column-count: 7 !important;
+    -webkit-column-gap: 1.25rem;
+    -moz-column-gap: 1.25rem;
+    grid-column-gap: 1.25rem;
+    column-gap: 2.25rem;
+    orphans: 5;
+    widows: 1;
+    text-align: right;
+   margin-right: 40px;
+   display: inline-flex !important;
+   float: right;
+} */
+
+/* .respond {
+    padding: 2%;
+} */
+
+.pphed {
+    font-size: 40px;
+    text-align: center !important;
+    margin-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    text-align: center;
+    font-family: "FbReformaNarrow Medium";
+}
+
+.styles_faq-row-wrapper__3vA1D .styles_faq-row__2YF3c {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0 !important;
+    border-bottom: 2px solid rgb(255, 188, 0) !important;
+    width: 60%;
+    margin-right: 10%;
+    position: inherit !important;
+}
+
+
+
+.btn-primary7 {
+    width: 300% !important;
+    margin-bottom: 0px !important;
+    font-size: 25px;
+    border-radius: 0%;
+    color: rgb(93, 93, 93) !important;
+    background-color: rgb(255, 188, 0) !important;
+    /* border-color: rgb(255, 188, 0) !important; */
+    line-height: 30px !important;
+}
+
+.btn-primary7:hover {
+    border-bottom: 2px solid rgb(93, 93, 93);
+}
+
+

@@ -1,0 +1,48 @@
+.error-all-p {
+    padding-top: 14% !important;
+    width: 50%;
+    text-align: right !important;
+    margin-right: 5%;
+}
+
+.error-p1 {
+    margin-right: 10%;
+    color: rgb(255, 188, 0);
+    font-size: 7vw;
+    font-family: "FbReformaNarrow Bold";
+    margin-bottom: 8%;
+}
+
+.error-p2 {
+    margin-right: 20%;
+    color: rgb(255, 188, 0);
+    font-size: 5vw;
+    font-family: "FbReformaNarrow Bold";
+    margin-bottom: 4%;
+}
+
+.error-p3 {
+    margin-right: 10%;
+    color: rgb(255, 188, 0);
+    font-size: 2vw;
+    margin-bottom: 3%;
+    font-family: "FbReformaNarrow Bold";
+}
+
+.error-link {
+    font-size: 2vw;
+    margin-right: 10%;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 4%;
+}
+
+.error-link:hover {
+    background-color: white;
+    color: rgb(255, 188, 0);
+}

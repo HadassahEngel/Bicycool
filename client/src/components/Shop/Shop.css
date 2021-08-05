@@ -1,0 +1,198 @@
+/* .all1{
+    background-color: black;
+} */
+
+body {
+    background-color: rgb(236, 236, 236) !important;
+}
+
+.all {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 6px 0 rgb(0 0 0 / 15%);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 5px;
+    /* padding-top: 90px; */
+    margin-bottom: 90px;
+    padding-bottom: 5px;
+}
+
+.toshoph1 {
+    margin-bottom: 5%;
+}
+
+button {
+    color: black !important;
+    background-color: white;
+    border: 0px solid white;
+}
+
+.riandle {
+    display: flex;
+    justify-content: space-between;
+    position: inherit !important;
+}
+
+.form-check,
+.form-check-input {
+    display: inline-block !important;
+    display: inline-flex !important;
+    color: black !important;
+}
+
+.divcard {
+    display: inline-block;
+    border-bottom: 4px solid rgb(236, 236, 236);
+    /* padding-left: 0px  !important; */
+    padding-right: 0px;
+}
+
+.typep {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0px !important;
+    margin-top: -4px !important;
+    margin-right: 15px !important;
+    padding-right: 8px !important;
+    padding-left: 8px;
+    background-color: rgb(255, 188, 0);
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    margin-left: 20px;
+    width: 110% !important;
+    display: inline-block !important;
+    position: inherit !important;
+}
+
+.col-md-4 {
+    flex: 0 0 13.333333% !important;
+    max-width: -0.666667% !important;
+    display: inline-block !important;
+    padding: 0px 0px !important;
+    width: 20% !important;
+    position: inherit !important;
+}
+
+.col-md-8 {
+    flex: 1 0 44.666667% !important;
+    /* max-width: 100.666667% !important; */
+    width: 90% !important;
+}
+.imgbicy {
+    width: 13vw;
+    height: 13vw;
+    display: inline-block;
+    margin-top: 10px !important;
+    margin-right: 0px !important;
+    z-index: 9 !important;
+}
+
+.tocart {
+    color: rgb(255, 188, 0) !important;
+    /* margin-right: 766px; */
+    font-size: 40px;
+    display: inline-block;
+    text-align: left;
+    line-height: 0px !important;
+    position: inherit !important;
+}
+
+.tocart:hover {
+    color: rgb(235, 172, 0) !important;
+}
+
+.text-muted {
+    color: #6c757d !important;
+    font-family: "VarelaRound-Regular" !important;
+    font-size: 1vw;
+    display: inline-block;
+    /* margin-left: 88%; */
+    text-align: right;
+    padding-top: 8px;
+    margin-bottom: 0px !important;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100% !important;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.card-text {
+    font-size: 1vw;
+    font-family: "VarelaRound-Regular" !important;
+}
+.card-title {
+    color: rgb(255, 188, 0);
+    margin-bottom: 0.75rem;
+    /* float: right; */
+    font-size: 1.3vw;
+    text-align: right;
+    font-family: "VarelaRound-Regular" !important;
+}
+
+/* .text-muted {
+  color: rgb(255, 188, 0) !important;
+} */
+
+/* .concart{
+  margin: auto;
+  width: 1300px;
+  box-shadow: 0 4px 6px 0 rgb(0 0 0 / 30%);
+  margin-top: 100px !important;
+} */
+
+.paypal-button.paypal-button-color-gold {
+    border-radius: 13px;
+    background-color: white !important;
+    box-shadow: 0 4px 6px 0 rgb(0 0 0 / 30%) !important;
+}
+
+.btn-primary5 {
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    /* margin-bottom: 0px !important; */
+    font-size: 30px;
+    color: rgb(255, 188, 0) !important;
+    background-color: rgb(255, 255, 255) !important;
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.btn-primary5:hover {
+    text-decoration: none;
+    filter: brightness(80%);
+    cursor: pointer;
+}
+
+.btn-primary6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    /* margin-bottom: 0px !important; */
+    font-size: 30px;
+    color: rgb(255, 188, 0) !important;
+    background-color: rgb(255, 255, 255) !important;
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.btn-primary6:hover {
+    text-decoration: none;
+    filter: brightness(80%);
+    cursor: pointer;
+}

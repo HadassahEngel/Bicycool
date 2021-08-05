@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+@font-face {
+    font-family: "Raleway-Regular";
+    src: local("Raleway-Regular"),
+        url("./fonts/Raleway-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "VarelaRound-Regular";
+    src: local("VarelaRound-Regular"),
+        url("./fonts/VarelaRound-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Bold";
+    src: local("FbReformaNarrow Bold"),
+        url("./fonts/FbReformaNarrow-Bold.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Light";
+    src: local("FbReformaNarrow Light"),
+        url("./fonts/FbReformaNarrow-Light.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Medium";
+    src: local("FbReformaNarrow Medium"),
+        url("./fonts/FbReformaNarrow-Medium.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Regular";
+    src: local("FbReformaNarrow Regular"),
+        url("./fonts/FbReformaNarrow-Regular.otf") format("truetype");
+    font-weight: normal;
+}

@@ -1,0 +1,76 @@
+.cardcon {
+   padding-left: 10%;
+    padding-right: 10%;
+    padding-inline-start: 10%;
+}
+
+.hedres{
+    text-align: right;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-size: 3.3vw;
+}
+
+.allres {
+    background-color: rgb(236, 236, 236);
+   width: 80%;
+   margin-top: 9%;
+   margin-bottom: 5%;
+   margin-right: 10%;
+
+}
+
+.iconres{
+    color: rgb(255, 188, 0);
+    margin-bottom: 0px !important;
+}
+
+.responval{
+    white-space: pre-wrap;
+}
+
+.btn-add-respond1{
+    width: 100%  !important;
+    font-size: 2vw;
+    background-color: rgb(255, 188, 0) !important;
+    padding: 1%;
+    margin-top: 3%;
+}
+
+.btn-add-respond1:hover{
+    filter: brightness(90%);
+}
+
+.butn121{
+    background-color: rgb(255, 188, 0);
+    padding-right: 7% !important;
+    padding-left: 7% !important;
+    padding: 1%;
+    font-size: 1.5vw;
+    margin-bottom: 2%;
+    margin-left: 5%;
+}
+
+.butn122{
+    background-color: rgb(255, 188, 0);
+    padding-right: 7% !important;
+    padding-left: 7% !important;
+    padding: 1%;
+    font-size: 1.5vw;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.butn121:hover, .butn122:hover{
+    filter: brightness(90%);
+}
+
+.p-modal-res{
+  margin-bottom: 0px !important;
+  margin-top: 2%;
+  font-family: "FbReformaNarrow Medium";
+  font-size: 1.5vw;
+  color: rgb(255, 188, 0);
+  margin-right: 3%;
+}

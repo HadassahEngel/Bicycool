@@ -1,0 +1,22 @@
+
+
+.all-how-work{
+ color: white !important;
+ width: 40%;
+ margin-right: 20%;
+ margin-top: 12%;
+}
+
+.hed-work{
+    color: rgb(255, 188, 0);
+    font-family: "FbReformaNarrow Bold";
+    font-size: 2vw;
+}
+
+.p-last{
+    color: rgb(255, 188, 0);
+    font-family: "FbReformaNarrow Bold";
+    text-align: left; 
+    margin-left: 25%;
+    font-size: 2vw
+}

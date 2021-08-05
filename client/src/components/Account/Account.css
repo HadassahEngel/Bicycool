@@ -1,0 +1,172 @@
+.container3 {
+    vertical-align: top;
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 8%;
+    padding-right: 5%;
+    /* padding-left: 20%; */
+    border-right: 3px solid rgb(255, 188, 0);
+    padding-top: 30px !important;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    /* border-left: 1px solid black; */
+    /* display: inline-block; */
+}
+
+.details {
+    font-size: 1.2vw;
+    text-align: right;
+    margin-bottom: 0.5rem !important;
+    font-family: "Raleway-Regular" !important;
+}
+
+.titledetails {
+    font-size: 25px;
+    text-align: right;
+    width: 40%;
+    display: inline-block !important;
+    margin-bottom: 0px !important;
+    font-family: "Raleway-Regular" !important;
+}
+
+.detedit {
+    color: rgb(255, 188, 0);
+    display: inline-block;
+    width: 85%;
+  
+    margin-top: 2%;
+    margin-bottom: 3%;
+    text-align: left;
+}
+
+.detedit1 {
+    font-size: 2vw;
+    display: inline-block;
+    text-align: right;
+    /* margin-left: 5%; */
+    color: rgb(255, 188, 0) !important;
+}
+
+.detedit1:hover{
+color: black !important;
+}
+
+.container3,
+.conmeetdet {
+    display: inline-block;
+}
+
+.acco {
+    /* border:black; */
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%) !important;
+    /* padding-left: 5vw !important;
+    padding-right: 5vw !important;
+    padding-top: 2vw;
+    padding-bottom: 2vw; */
+    font-size: 3vw !important;
+    color: rgb(255, 255, 255);
+ 
+    width: 20%;
+}
+
+.icondetails {
+    display: inline-block !important;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px !important;
+}
+
+.toacch1 {
+    margin-bottom: 10px;
+}
+
+.acco1 {
+    margin-top: 15vw;
+    margin-left: 35vw;
+}
+
+.acco:hover {
+    /* box-shadow: 0 3px 6px 0 rgb(0 0 0 / 40%) !important; */
+    cursor: pointer;
+
+    color: rgb(255, 188, 0);
+    /* background-color: black; */
+    /* border: 6px solid rgb(255, 188, 0); */
+    text-decoration: none;
+}
+
+.image2 {
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    min-height: 100vh !important;
+    height: 100%;
+    display: table;
+}
+
+.details1 {
+    /* width: 20%; */
+    display: block !important;
+    margin-right: 10%;
+    margin-top: 3%;
+    font-family: "FbReformaNarrow Medium";
+}
+
+.divdetails1 {
+    margin-top: 2vw;
+}
+
+.bclear {
+    display: inline-block !important;
+    width: 85%;
+    text-align: left;
+    color: rgb(255, 188, 0) !important;
+    
+}
+
+.bclear:hover {
+    color: rgb(0, 0, 0) !important;
+    cursor: pointer;
+}
+
+.imgpro {
+    width: 8vw;
+    height: 8vw;
+    margin: right;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: -70% !important;
+}
+
+/* .imagedetails{
+    width: 30%;
+    display: inline-block;
+    margin-left: 42%;
+} */
+
+.change-details{
+    display: block;
+    font-size: 1.2vw !important;
+}
+
+.change-name{
+    display: block;
+    font-size: 1.2vw !important;
+    margin-right: 10% !important;  
+    margin-top: 1%;
+}
+
+.detedit3 {
+    display: block !important;
+    text-align: center;
+    width: 90%;
+    margin-top: 5%;
+    font-size: 1.5vw;
+}
+
+.detedit3:hover{
+    color: rgb(255, 188, 0) !important;
+}

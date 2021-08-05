@@ -1,0 +1,97 @@
+.quesna {
+    display: inline-block;
+    width: 95%;
+}
+
+.btnaddques {
+    display: inline-block;
+    width: 5%;
+    writing-mode: vertical-rl !important;
+    text-orientation: mixed !important;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 188, 0) !important; 
+}
+
+.btnaddques:hover{
+   filter: brightness(90%);
+}
+
+path {
+    font-size: 40px;
+}
+
+.addques {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    /* border-right: 3px solid black; */
+}
+
+.allques {
+    font-family: "FbReformaNarrow Regular";
+    background-color: white !important;
+    padding-right: 4vw;
+}
+
+.textareaques {
+    width: 80%;
+    height: 70%;
+    box-shadow: 0 4px 6px 0 rgb(0 0 0 / 20%);
+    border: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 8%;
+    font-size: 20px;
+    margin-bottom: 8%;
+    font-family: "FbReformaNarrow Medium";
+}
+
+.addqueshed {
+    font-size: 30px;
+    padding-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 8%;
+    font-family: "FbReformaNarrow Regular";
+}
+
+.send {
+    /* margin-bottom: 60px !important;
+    margin-top: 30px !important; */
+    width: 80%;
+    font-size: 30px;
+    border-radius: 0%;
+    color: rgb(93, 93, 93) !important;
+    background-color: rgb(255, 188, 0) !important;
+    /* border-color: rgb(255, 188, 0) !important; */
+    line-height: 30px !important;
+    /* filter: brightness(90%); */
+    cursor: pointer;
+    display: block !important;
+    /* padding-right: 5vw;
+    padding-left: 5vw; */
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    margin: auto;
+    font-family: "FbReformaNarrow Medium";
+}
+
+.send:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+}
+
+.queshed {
+    text-align: right;
+    margin-bottom: 2% !important;
+    font-size: 40px;
+    color: black;
+    font-family: "FbReformaNarrow Medium";
+    width: 80%;
+    margin-right: 10%;
+    padding-top: 9%;
+}
+
+.input-ques-1{
+    margin-bottom: 2%;
+}

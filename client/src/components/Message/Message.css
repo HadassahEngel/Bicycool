@@ -1,0 +1,152 @@
+body,
+html {
+    font-family: "FbReformaNarrow Medium" !important;
+}
+
+.ab {
+    vertical-align: top;
+    width: 1193px;
+    height: 865px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 85px;
+    margin-bottom: 85px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 30%);
+}
+
+.abc {
+    vertical-align: top;
+    width: 1100px;
+    height: 629px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 85px;
+    margin-bottom: 85px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 30%);
+}
+
+h1 {
+    /* color: rgb(93, 93, 93); */
+    font-size: 80px;
+}
+
+li{
+    font-size: 30px;
+    font-family: "FbReformaNarrow Regular"  !important;
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.p7 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(93, 93, 93);
+    margin-right: 200px;
+}
+
+.p8 {
+    font-size: 60px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    color: rgb(93, 93, 93);
+    margin-right: 200px;
+}
+
+.p9 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 220px;
+    color: rgb(93, 93, 93);
+    margin-right: 200px;
+}
+
+.logo1 {
+    margin-top: 0px;
+    width: 30%;
+}
+
+.btn11{
+    text-decoration: none !important;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 2%;
+    padding: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 35px !important;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Medium" !important;
+}
+
+.btn12{
+    text-decoration: none !important;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 2%;
+    padding: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 630px !important;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Medium" !important;
+}
+
+.btn13{
+    text-decoration: none !important;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 2%;
+    padding: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 460px !important;
+    filter: brightness(100%);
+    font-family: "FbReformaNarrow Medium" !important;
+} 
+
+.btn11:hover, .btn12:hover, .btn13:hover{
+    filter: brightness(90%);
+    cursor: pointer;
+    color: rgb(93, 93, 93);
+}
+
+li{
+    text-align: right;
+}
+
+.divli{
+    margin-bottom: 160px;
+    margin-right: 200px;
+}
+
+.mesbrhed{
+    font-size: 65px;
+    text-align: left;
+    padding-top: 42px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: rgb(255, 188, 0);
+    margin-left: 100px;
+    border-bottom: 2px solid rgb(255, 188, 0);
+}
+
+.mesghed{
+    font-size: 65px;
+    text-align: left;
+    padding-top: 42px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: rgb(255, 188, 0);
+    margin-left: 200px;
+    border-bottom: 2px solid rgb(255, 188, 0);
+}

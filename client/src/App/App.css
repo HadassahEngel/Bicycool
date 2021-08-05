@@ -1,0 +1,136 @@
+*,
+body {
+    direction: rtl;
+}
+
+.navcon {
+    position: fixed !important;
+    /* position: sticky ; */
+    background-color: black;
+    width: 100% !important;
+    z-index: 99;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navright {
+    text-align: right;
+    display: inline-block;
+    margin-top: 0.4vw;
+}
+
+.navleft {
+    text-align: left;
+    display: inline-block;
+}
+
+.rnav {
+    color: white;
+    font-size: 1.6vw;
+    margin-right: 30px;
+    padding-top: 10px !important;
+    font-family: "FbReformaNarrow Regular";
+}
+
+.rnav:hover {
+    color: rgb(93, 93, 93);
+    /* border-bottom: 4px solid rgb(255, 188, 0); */
+}
+
+.rnav:focus,
+.rnav::after,
+.rnav:active {
+    color: rgb(255, 188, 0);
+    /* border-bottom: 4px solid rgb(255, 188, 0); */
+}
+
+.hello {
+    display: inline-block;
+    color: rgb(255, 188, 0);
+    margin-left: 40px;
+    font-family: "FbReformaNarrow Regular";
+    font-size: 1.6vw;
+
+    margin-bottom: 0px;
+}
+
+.helloacco {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    font-family: "FbReformaNarrow Medium";
+    font-size: 1.6vw;
+    background-color: rgb(255, 188, 0);
+    border: 2px solid rgb(255, 188, 0);
+    line-height: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.helloacco:hover,
+.helloacco:focus {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 2px solid rgb(255, 188, 0);
+}
+
+button:focus {
+    outline: 0px dotted !important;
+    outline: 0px auto -webkit-focus-ring-color !important;
+}
+
+.proacco,
+.procart {
+    display: inline-block;
+    color: white;
+    font-size: 2vw;
+    margin-left: 30px;
+}
+
+.proacco:hover,
+.procart:hover {
+    color: rgb(93, 93, 93);
+}
+
+.proacco:focus,
+.procart:focus {
+    color: rgb(255, 188, 0);
+}
+
+.logohome {
+    width: 3.5vw;
+    height: 2.5vw;
+    margin-right: 20px;
+    margin-top: -1vw;
+}
+
+.logohome:hover {
+    width: 3vw;
+    height: 2.2vw;
+}
+
+div::-webkit-scrollbar {
+    width: 8px;
+    background-color: #ffffff;
+    display: block !important;
+    margin-right: 0% !important;
+    margin-left: auto !important;
+}
+
+div::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: rgb(236, 236, 236);
+}
+
+body::-webkit-scrollbar {
+    width: 15px;
+    background-color: rgb(236, 236, 236);
+}
+
+body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: rgb(200, 200, 200);
+}
+

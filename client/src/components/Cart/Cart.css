@@ -1,0 +1,121 @@
+.paypal-button {
+    border-radius: 13px;
+    color: white !important;
+}
+
+.paypal-button.paypal-button-shape-pill {
+    border-radius: 13px;
+    background-color: white;
+}
+
+.concart {
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+.item-cart {
+    width: 100% !important;
+    margin-bottom: 3%;
+    display: inline-block !important;
+    text-align: right;
+    font-size: 1.2vw;
+    font-family: "VarelaRound-Regular" !important;
+}
+
+.all-item-cart {
+    width: 75% !important;
+    display: inline-block !important;
+    padding-right: 10%;
+    padding-top: 5%;
+    border-left: 2px solid rgb(255, 188, 0);
+}
+
+.div-item-cart {
+    display: inline-block !important;
+    margin-right: 4%;
+}
+
+.img-cart-item {
+    display: inline-block !important;
+    width: 6vw;
+    height: 6vw;
+    margin-bottom: 9%;
+}
+
+.pitem1 {
+    margin-bottom: 0px !important;
+    font-family: "VarelaRound-Regular" !important;
+    font-size: 1.2vw;
+}
+
+.pitem2 {
+    margin-bottom: 0px !important;
+    font-family: "VarelaRound-Regular" !important;
+    font-size: 1.2vw;
+    color: rgb(255, 188, 0);
+}
+
+.pay-cart-div {
+    width: 25%;
+    display: inline-block !important;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.total-pay {
+    font-size: 1.1vw;
+    margin-bottom: 0px !important;
+    font-family: "VarelaRound-Regular" !important;
+    margin-right: 20%;
+}
+
+.return-to-shop-arrow-div {
+    text-align: right !important;
+    margin-bottom: 1vw;
+    margin-right: 15%;
+}
+
+.paypal-buttons {
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255) !important;
+    color: #111;
+}
+
+.paypal-button-text {
+    /* display: inline-block; */
+    /* white-space: pre; */
+    color: rgb(255, 255, 255) !important;
+}
+
+.empty-cart-header {
+    color: rgb(255, 255, 255);
+}
+
+iframe.component-frame {
+    z-index: 9 !important;
+}
+
+.paypal-buttons {
+    width: 10px !important;
+}
+
+.trash-remove {
+    font-size: 1.5vw;
+    color: rgb(255, 188, 0) !important;
+}
+
+.trash-remove:hover {
+    font-size: 1.5vw;
+    color: rgb(0, 0, 0) !important;
+}

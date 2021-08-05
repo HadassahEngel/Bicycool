@@ -1,0 +1,150 @@
+.div-button-chat {
+    background-color: inherit;
+    z-index: 99;
+    position: relative !important;
+}
+
+.button-chat {
+    background-color: inherit;
+    font-size: 3vw;
+    color: rgb(0, 0, 0) !important;
+    z-index: 99;
+    background-color: rgb(255, 188, 0);
+    padding-left: 1vw !important;
+    padding-right: 1vw !important;
+}
+
+.button-chat:hover {
+    filter: brightness(90%);
+}
+
+.modal-chat {
+    z-index: 99 !important;
+}
+
+.input-send-chat {
+    width: 90%;
+    display: inline-block;
+}
+
+.send-chat {
+    width: 10%;
+    display: inline-block;
+    font-size: 1.2vw;
+    border-bottom: 2px solid rgb(255, 188, 0);
+}
+
+.send-chat:hover {
+    color: rgb(255, 188, 0) !important;
+}
+
+.chat-guide {
+    width: 70%;
+    background-color: rgba(255, 187, 0, 0.507);
+    margin-bottom: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+}
+
+.chat-bicy {
+    width: 70%;
+    margin-right: 30%;
+    background-color: rgb(230, 230, 230);
+    margin-bottom: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+}
+
+.p-value-guide {
+    font-family: "FbReformaNarrow Regular" !important;
+    font-size: 1.3vw;
+    line-height: 1.3vw;
+    margin-bottom: 0px !important;
+}
+
+.p-value-bicy {
+    font-family: "FbReformaNarrow Regular" !important;
+    font-size: 1.3vw;
+    line-height: 1.3vw;
+    margin-bottom: 0px !important;
+}
+
+.pbicy2 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    text-align: right;
+    line-height: 1vw;
+}
+
+.pbicy1 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    text-align: right;
+    line-height: 1vw;
+}
+
+.pbicy3 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    padding-right: 10px;
+    line-height: 1vw;
+}
+
+.pguide1 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    line-height: 1vw;
+}
+
+.pguide2 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    line-height: 1vw;
+}
+
+.pguide3 {
+    display: inline-block !important;
+    font-size: 1vw;
+    margin-bottom: 0px !important;
+    padding-right: 1%;
+    padding-right: 10px;
+    line-height: 1vw;
+}
+
+.div-bicy-det {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid black;
+    margin-top: 5%;
+}
+
+.div-guide-det {
+    border-top: 1px solid black;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-to-det-bicy {
+    display: inline-block;
+    text-align: left;
+}
+
+.div-to-det-guide {
+    display: inline-block;
+    text-align: left;
+}
+
+.all-chat {
+    z-index: 99 !important;
+    max-height: 39vw !important;
+    min-height: 39vw !important;
+    overflow: auto;
+}
